@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvc-websocket-demo.iml" filepath="$PROJECT_DIR$/mvc-websocket-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvcwebsocketdemo.iml" filepath="$PROJECT_DIR$/mvcwebsocketdemo.iml" />
     </modules>
   </component>
